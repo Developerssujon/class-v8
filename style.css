@@ -1,0 +1,30 @@
+.potaka{
+    width: 500px;
+    height: 250px;
+    background-color: green;
+    text-align: center;
+    margin: 0 auto;
+}
+.lalonso{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius: 50%;
+    display: inline-block;
+}
+.andda{
+    width: 500px;
+    height: 250px;
+    background-color: rgb(115, 71, 32);
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 50%;
+    border: 2px solid beige;
+}
+.kosum{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(224, 194, 28);
+    display: inline-block;
+    border-radius: 50%;
+}
